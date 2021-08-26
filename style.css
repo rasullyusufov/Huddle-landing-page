@@ -18,6 +18,8 @@ nav {
 header {
   height: 100vh;
   background: url(./images/bg-hero-mobile.svg);
+background-repead: no-repead;
+background-size: cover
 }
 .middleHeader {
   margin: 0px 5%;
